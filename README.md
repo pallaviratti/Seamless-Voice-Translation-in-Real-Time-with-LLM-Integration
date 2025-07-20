@@ -1,2 +1,3 @@
 # Seamless-Voice-Translation-in-Real-Time-with-LLM-Integration
 a real-time seamless voice translation system integrating ASR, MT, NLP, TTS, and LLMs, aimed at breaking language barriers by enabling context-aware, multilingual communication with voice and emotion preservation.
+The system was developed to support fluid multilingual communication by integrating advanced tools for speech recognition, translation, and synthesis. By leveraging Google Gemini AI for language translation, SpeechRecognition for real-time STT, and gTTS for naturalistic speech generation, the system aims to offer a smooth and human-like communication experience across language barriers.
